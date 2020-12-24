@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ООП\Laba13\Laba13\bin\Debug\Laba13.exe.config
+C:\Users\User\Desktop\ООП\Laba13\Laba13\bin\Debug\Laba13.exe
+C:\Users\User\Desktop\ООП\Laba13\Laba13\bin\Debug\Laba13.pdb
+C:\Users\User\Desktop\ООП\Laba13\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ООП\Laba13\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\Laba13\Laba13\obj\Debug\Laba13.exe
+C:\Users\User\Desktop\ООП\Laba13\Laba13\obj\Debug\Laba13.pdb

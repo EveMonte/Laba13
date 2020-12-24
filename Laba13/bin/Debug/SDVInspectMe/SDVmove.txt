@@ -1,0 +1,21 @@
+$Recycle.Bin
+$WinREAgent
+Documents and Settings
+Drivers
+Intel
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows
+Y+NprdSI9IylXuKcYgZ1ZWHjU8=
+AVScanner.ini
+DumpStack.log.tmp
+hiberfil.sys
+pagefile.sys
+Setup.log
+swapfile.sys
